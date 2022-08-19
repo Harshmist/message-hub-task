@@ -3,7 +3,8 @@
 ## Requirements
 
 Design and build a message hub that can accept and distribute messages to connected users who are subscribed to a certain "topic".
-Think of this like a chat room that is connected to either via TCP.
+
+Think of this like a chat room that is connected via TCP.
 
 ## Considerations
 
